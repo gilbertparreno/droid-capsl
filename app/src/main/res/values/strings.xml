@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">base-project</string>
+
+    <string name="prompt_fingerprint_title">Fingerprint Title</string>
+    <string name="prompt_fingerprint_subtitle">Fingerprint Subtitle</string>
+    <string name="prompt_fingerprint_description">Fingerprint Description</string>
+    <string name="prompt_fingerprint_button_label">Fingerprint Button</string>
+    <string name="prompt_fingerprint_auth_error">Fingerprint authentication failed.</string>
+</resources>
